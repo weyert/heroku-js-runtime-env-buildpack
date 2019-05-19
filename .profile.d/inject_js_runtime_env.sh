@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Debug, echo every command
-#set -x
+set -x
 
 JS_RUNTIME_ENV_PREFIX="${JS_RUNTIME_ENV_PREFIX:-JS_RUNTIME_}"
 
